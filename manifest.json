@@ -4,11 +4,6 @@
   "version": "1.0",
   "description": "Removes instances of UAE or UK or United Arab Emirates or United Kingdom from most dropdown menus.",
   "author": "Taryn Young",
-  "icons": {
-    "16": "sorry-16.png",
-    "48": "sorry-48.png",
-    "128": "sorry-128.png"
-  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
