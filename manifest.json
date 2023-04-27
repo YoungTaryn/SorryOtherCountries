@@ -12,13 +12,13 @@
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
-      "js": ["SorryTennessee.js"],
+      "js": ["SorryUnitedNotStatesOfAmerica.js"],
       "run_at": "document_idle",
       "all_frames": true
     }
   ],
   "devtools_page": "devtools.html",
-  "homepage_url": "http://www.github.com/youngtaryn",
+  "homepage_url": "http://www.github.com/YoungTaryn",
   "incognito": "spanning",
   "offline_enabled": true,
   "options_page": "options.html",
